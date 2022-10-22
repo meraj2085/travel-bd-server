@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Sundarban",
+    "picture": "https://i.ibb.co/6PLVbJP/sundarbans.jpg",
+    "details": "Sundarbans has declared World Heritage Site by UNESCO which is the largest Mangrove Forest situated between two countries. It is the kingdom of Royal Bengal tiger and you will find various kinds of species of birds, animals & plants and I think you should visit the tranquilizing beauty of Sundarbans once in your life.",
+    "hotels": [
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Srimagal",
+    "picture": "https://i.ibb.co/jDb2fPB/srimangal.jpg",
+    "details": "The Capital of tea in Bangladesh is Srimagal which is situated in the north-eastern part of the country where you will find lush greenery fields all around. It is one of the best places in Bangladesh where you can really have the place & clam environment and there are two more visiting places too, Lawachhara National Park & Hamham Waterfalls.",
+    "hotels": [
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Rangamati",
+    "picture": "https://i.ibb.co/x7wsNMS/rangamati.jpg",
+    "details": "The District of Chittagong Hill Tracks area in Rangamati, a place full of natural amusement and here, here, you can find a man-made lake surrounded by Hill called Kaptai Lake where you can take a ride by boat all over the day, a Buddhist Monastery here named Rajban Bihara, a high-quality handicrafts market made by the tribal of Rangamati.",
+    "hotels": [
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Jaflong",
+    "picture": "https://i.ibb.co/JCg6jCw/Jaflong.jpg",
+    "details": "This place is situated at the Bangladesh-India border. It is one of the most attractive places in Bangladesh. It is also an adventurous place. It is a hilly area and you can enjoy the waterfall on the way of Jaflong to Sylhet. The hills of Jaflong are greenish with forest and there are many wild animals in the forest. Tea garden and zero points are the most beautiful spot of Jaflong.",
+    "hotels": [
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Sitakundu",
+    "picture": "https://i.ibb.co/WVLdFfD/sitakundu.jpg",
+    "details": "Sitakundu is one of the oldest sites in Bangladesh.  If you want to soothe your mind then definitely enjoy the natural and charming beauty of sitakundu. It is very famous for the Chandranath temple and Buddhist temples. Many waterfalls, mountains, and green rivers make the place heaven. If you are nature and adventure lover then you must visit this place.     ",
+    "hotels": [
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "rating": "",
+        "price": "",
+        "bed": "",
+        "guests": ""
+      }
+    ]
+  }
+]
